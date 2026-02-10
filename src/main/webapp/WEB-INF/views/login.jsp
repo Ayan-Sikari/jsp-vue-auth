@@ -3,7 +3,6 @@
 <html>
 <head>
     <title>User Login</title>
-    <!-- Vue CDN -->
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <style>
         * {
@@ -198,3 +197,4 @@ createApp({
 
 </body>
 </html>
+
